@@ -1,0 +1,4 @@
+- Pour démarrer la base de données : startup_db.bat
+- Pour démarrer l'application : startup_webapp.bat
+- Connexion à l'application : http://localhost:8080
+- Login / MDP : j2ee / j2ee

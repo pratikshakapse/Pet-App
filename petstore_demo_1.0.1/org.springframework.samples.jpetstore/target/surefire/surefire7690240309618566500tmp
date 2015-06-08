@@ -1,0 +1,5 @@
+#surefire
+#Mon May 11 14:48:24 IST 2015
+user.dir=C\:\\PetApp\\petstore_demo_1.0.1\\org.springframework.samples.jpetstore
+localRepository=C\:\\Users\\PRLT-14\\.m2\\repository
+basedir=C\:\\PetApp\\petstore_demo_1.0.1\\org.springframework.samples.jpetstore

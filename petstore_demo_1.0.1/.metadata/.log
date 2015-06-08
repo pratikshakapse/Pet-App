@@ -1,0 +1,14 @@
+!SESSION 2015-05-08 12:34:32.090 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.6.0-OpenSCG-Build-24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -perspective org.squashtest.ta.eclipse.plugin.perspective.SquashTAPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -perspective org.squashtest.ta.eclipse.plugin.perspective.SquashTAPerspective
+
+!ENTRY org.eclipse.ui.ide 4 4 2015-05-08 13:33:42.242
+!MESSAGE The file 'startup_all.bat' could not be opened.
+See log for details.
+
+!ENTRY org.eclipse.ui 4 0 2015-05-08 13:33:42.282
+!MESSAGE Unable to open external editor for C:/PetApp/petstore_demo_1.0.1/startup_all.bat.
